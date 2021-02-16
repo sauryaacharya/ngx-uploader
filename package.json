@@ -72,5 +72,13 @@
     "ts-node": "~8.5.4",
     "tslint": "~6.1.0",
     "typescript": ">=4.0 <4.1"
-  }
+  },
+  "main": "dist/ngx-uploader/bundles/ngx-uploader.umd.js",
+  "module": "dist/ngx-uploader/fesm2015/ngx-uploader.js",
+  "es2015": "dist/ngx-uploader/fesm2015/ngx-uploader.js",
+  "esm2015": "dist/ngx-uploader/esm2015/ngx-uploader.js",
+  "fesm2015": "dist/ngx-uploader/fesm2015/ngx-uploader.js",
+  "typings": "dist/ngx-uploader/ngx-uploader.d.ts",
+  "metadata": "dist/ngx-uploader/ngx-uploader.metadata.json",
+  "sideEffects": false
 }
