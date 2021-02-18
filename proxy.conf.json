@@ -1,6 +1,0 @@
-{
-  "/upload": {
-    "target": "http://localhost:4900",
-    "secure": false
-  }
-}
